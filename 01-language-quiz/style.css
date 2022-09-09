@@ -1,0 +1,48 @@
+body {
+    font-family: Arial;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+#app {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#app div, #app ul {
+    width: 50%;
+    max-width: 300px;
+}
+
+#title {
+    background-color: white;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+}
+
+#app ul {
+    padding: 0px;
+}
+
+#app li {
+    list-style-type: none;
+    padding: 7px;
+    margin-bottom: 4px;
+    background-color: lightgrey;
+}
+
+#app li:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+#result, #score {
+    color: white;
+}
+
+#result {
+    font-weight: bold;
+}
