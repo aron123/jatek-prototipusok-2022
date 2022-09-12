@@ -7,3 +7,8 @@ Játék prototípusok tantárgy órai anyagai, 5. féléves programtervező info
 Féléves követelmények ismertetése, szükséges szoftverek telepítése, JavaScript alapok.
 
 - [Nyelvi kvíz](https://github.com/aron123/jatek-prototipusok-2022/blob/master/01-language-quiz/)
+
+## 2. hét
+Phaser 3 keretrendszer alapjai, sprite-ok, ütközésvizsgálat, kamera effektusok.
+
+- [Asset-ek](https://github.com/aron123/jatek-prototipusok-2022/blob/master/02-assets.zip)
