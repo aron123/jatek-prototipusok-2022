@@ -11,4 +11,4 @@ Féléves követelmények ismertetése, szükséges szoftverek telepítése, Jav
 ## 2. hét
 Phaser 3 keretrendszer alapjai, sprite-ok, ütközésvizsgálat, kamera effektusok.
 
-- [Asset-ek](https://github.com/aron123/jatek-prototipusok-2022/raw/master/02-assets.zip)
+- [Asset-ek letöltése](https://github.com/aron123/jatek-prototipusok-2022/raw/master/02-assets.zip)
