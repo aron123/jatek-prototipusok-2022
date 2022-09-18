@@ -12,3 +12,8 @@ Féléves követelmények ismertetése, szükséges szoftverek telepítése, Jav
 Phaser 3 keretrendszer alapjai, sprite-ok, ütközésvizsgálat, kamera effektusok.
 
 - [Asset-ek letöltése](https://github.com/aron123/jatek-prototipusok-2022/raw/master/02-assets.zip)
+
+## 3. hét
+
+- [TypeScript projekt template](https://github.com/aron123/jatek-prototipusok-2022/blob/master/03-project-template)<br>
+  _(eredeti: [sebsowter/phaser-webpack](sebsowter/phaser-webpack))_
