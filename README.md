@@ -12,6 +12,7 @@ Féléves követelmények ismertetése, szükséges szoftverek telepítése, Jav
 Phaser 3 keretrendszer alapjai, sprite-ok, ütközésvizsgálat, kamera effektusok.
 
 - [Asset-ek letöltése](https://github.com/aron123/jatek-prototipusok-2022/raw/master/02-assets.zip)
+- [Road crossing game](https://github.com/aron123/jatek-prototipusok-2022/tree/master/02-road-crossing-game)
 
 ## 3. hét
 
