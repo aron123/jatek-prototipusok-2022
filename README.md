@@ -15,6 +15,7 @@ Phaser 3 keretrendszer alapjai, sprite-ok, ütközésvizsgálat, kamera effektus
 - [Road crossing game](https://github.com/aron123/jatek-prototipusok-2022/tree/master/02-road-crossing-game)
 
 ## 3. hét
+Audio kezelés, tween animáció, sprite interakciók. Spritesheet animáció, időzített események, több scene kezelése.
 
-- [TypeScript projekt template](https://github.com/aron123/jatek-prototipusok-2022/blob/master/03-project-template)<br>
-  _(eredeti: [sebsowter/phaser-webpack](sebsowter/phaser-webpack))_
+- [Nyelvtanuló játék template letöltése](https://github.com/aron123/jatek-prototipusok-2022/raw/master/03-spanish-learning-game-template.zip)
+- [Virtual pet játék template letöltése](https://github.com/aron123/jatek-prototipusok-2022/raw/master/03-virtual-pet-game-template.zip)
