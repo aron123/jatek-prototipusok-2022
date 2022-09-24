@@ -18,4 +18,6 @@ Phaser 3 keretrendszer alapjai, sprite-ok, ütközésvizsgálat, kamera effektus
 Audio kezelés, tween animáció, sprite interakciók. Spritesheet animáció, időzített események, több scene kezelése.
 
 - [Nyelvtanuló játék template letöltése](https://github.com/aron123/jatek-prototipusok-2022/raw/master/03-spanish-learning-game-template.zip)
+- [Nyelvtanuló játék](https://github.com/aron123/jatek-prototipusok-2022/tree/master/03-spanish-learning-game)
 - [Virtual pet játék template letöltése](https://github.com/aron123/jatek-prototipusok-2022/raw/master/03-virtual-pet-game-template.zip)
+- [Virtual pet játék](https://github.com/aron123/jatek-prototipusok-2022/tree/master/03-virtual-pet-game)
