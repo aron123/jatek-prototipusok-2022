@@ -21,3 +21,9 @@ Audio kezelés, tween animáció, sprite interakciók. Spritesheet animáció, i
 - [Nyelvtanuló játék](https://github.com/aron123/jatek-prototipusok-2022/tree/master/03-spanish-learning-game)
 - [Virtual pet játék template letöltése](https://github.com/aron123/jatek-prototipusok-2022/raw/master/03-virtual-pet-game-template.zip)
 - [Virtual pet játék](https://github.com/aron123/jatek-prototipusok-2022/tree/master/03-virtual-pet-game)
+
+## 4. hét
+Arcade játékfizika, ütközés- és átfedésvizsgálat, platformer mechanika, object pooling.
+
+- [Platformer játék template letöltése](https://github.com/aron123/jatek-prototipusok-2022/raw/master/04-platformer-game-template.zip)
+- [Platformer játék pályaadatok letöltése](https://github.com/aron123/jatek-prototipusok-2022/raw/master/04-level-data.json)
