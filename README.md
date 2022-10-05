@@ -29,6 +29,6 @@ Arcade játékfizika, ütközés- és átfedésvizsgálat, platformer mechanika,
 - [Platformer játék pályaadatok letöltése](https://github.com/aron123/jatek-prototipusok-2022/raw/master/04-level-data.json)
 
 ## 5. hét
-Tilemap-ek létrehozása és kezelése Phaser-ben. 
+Tiled map editor kezelése, tilemap-ek létrehozása Phaser-ben. 
 
 - [RPG játék template letöltése](https://github.com/aron123/jatek-prototipusok-2022/raw/master/05-rpg-game-template.zip)
